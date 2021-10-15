@@ -1,2 +1,2 @@
-username = 'lleyes'
-password = 'Ulise$+746'
+username = ''
+password = ''
